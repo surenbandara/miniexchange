@@ -1,0 +1,1 @@
+{"version":3,"file":"oauth2server.js","sourceRoot":"","sources":["../../../src/api/auth_manager/oauth2server.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,eAAe,CAAC;AAEzC,OAAO,KAAK,MAAM,yBAAyB,CAAC;AAE5C,MAAM,KAAK,GAAG,IAAI,YAAY,CAAC;IAC7B,KAAK,EAAE,KAAK,EAAE,0BAA0B;CACzC,CAAC,CAAC;AAEH,eAAe,KAAK,CAAC"}
